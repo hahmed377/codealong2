@@ -8,7 +8,7 @@ This lab should take one to two hours.
 
 Creating complex looking pages is not as hard as you might think. Recreate the following page using only CSS and HTML.
 
-![Image of instagram login page](Instagram.png)
+![Image of instagram login page](instagram.png)
 
 You can use the developer console in your browser to get colours, pixel sizes and fonts etc from the real site.
 
