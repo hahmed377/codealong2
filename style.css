@@ -1,6 +1,9 @@
+body{
+  font-family: sans-serif;
+}
 .container{
   width: 800px;
-  
+
   margin: auto;
 }
 
@@ -12,12 +15,25 @@
 }
 
 .signUpForm{
-  height: 200px;
+  float: right;
+  text-align: center;
   width: 346px;
   display: inline-block;
-  background-color: blue;
+  
 }
 .phoneImage img {
   width: 400px;
   margin-top: 40px;
+}
+
+.imageHeader img{
+  width: 250px;
+}
+
+.signUpText{
+  width: 250px;
+  color: #999;
+  margin: auto;
+  font-size: 18px;
+  font-style: bold;
 }
